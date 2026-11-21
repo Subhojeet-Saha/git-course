@@ -1,3 +1,4 @@
 user serv demo data
 
 new avatar for users
+login logout
