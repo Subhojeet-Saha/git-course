@@ -3,7 +3,3 @@ add/remove roles
 
 manage database
 closing connection
-
-
-change1
-change2
