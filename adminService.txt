@@ -2,7 +2,7 @@ add/delete new users
 add/remove roles
 
 manage database
-closing connection
+closing mysql connection
 
 
 change 1 in harsh database
